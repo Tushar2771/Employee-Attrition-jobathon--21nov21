@@ -24,7 +24,7 @@ variable
 * Drop Emp_ID Variable.
 
 # Splitting of Data –
-1. Data is splitting is done 80% (train) and 20 %( test) manner.
+1. Data splitting is done in 80% (train) and 20 %( test) manner.
 # Model-
 KNN –Classifier
 Why – Since we have classification problem, where K-NN algorithm
